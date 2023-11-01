@@ -98,3 +98,7 @@ Links são muito importantes — eles são o que faz da web ser de fato uma REDE
 ## Atividade 1
 
 Faça uma página em HTML semelhante a da Figura abaixo. Para título, utilize a tag h1. 
+
+<p align="center">
+  <img src="https://github.com/matheusdutra0207/HTML-b-sico/blob/main/imagens/atv-1-html.PNG" width="200" title="prog 1 e 2">
+</p>
