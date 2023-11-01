@@ -32,7 +32,7 @@
     <title>Minha página de teste</title>
   </head>
   <body>
-    <img src="images/firefox-icon.png" alt="minha página de teste" />
+    <img src="imagens/firefox-icon.png" alt="minha página de teste" />
   </body>
 </html>
 ```
