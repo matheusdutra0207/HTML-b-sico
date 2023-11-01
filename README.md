@@ -93,3 +93,8 @@ Links são muito importantes — eles são o que faz da web ser de fato uma REDE
 <a href="https://www.google.com/search?q=um+cachorro&sca_esv=578502807&tbm=isch&sxsrf=AM9HkKk4o5BTREfHfUdickvEC0M5KzHgog:1698848952570&source=lnms&sa=X&ved=2ahUKEwil7eDCgaOCAxUbrpUCHUY6Dp4Q_AUoAXoECAMQAw&biw=1366&bih=619&dpr=1#imgrc=F-3KD-GXYHtdDM"
   >Um cachorro</a>
 ```
+# Atividades 
+
+## Atividade 1
+
+Faça uma página em HTML semelhante a da Figura abaixo. Para título, utilize a tag h1. 
