@@ -37,12 +37,12 @@
 </html>
 ```
 
-1. ```<!DOCTYPE html>``` É a parte inicial obrigatória do documento.
+1. ```<!DOCTYPE html>```  É a parte inicial obrigatória do documento.
 2. ```<html></html>```  Esse elemento envolve todo o conteúdo da página e às vezes é conhecido como o elemento raiz.
-3. ```<head></head>``` Elemento que age como um recipiente de tudo o que você deseja incluir em uma página HTML que não é o conteúdo que você quer mostrar para quem vê sua página. Isso inclui coisas como palavras-chave e uma descrição que você quer que apareça nos resultados de busca, CSS para dar estilo ao conteúdo, declarações de conjuntos de caracteres e etc.
-4. ```<meta charset="utf-8">``` —  Elemento que define o conjunto de caracteres que seu documento deve usar para o UTF-8, que inclui praticamente todos os caracteres da grande maioria dos idiomas escritos.
+3. ```<head></head>```  Elemento que age como um recipiente de tudo o que você deseja incluir em uma página HTML que não é o conteúdo que você quer mostrar para quem vê sua página. Isso inclui coisas como palavras-chave e uma descrição que você quer que apareça nos resultados de busca, CSS para dar estilo ao conteúdo, declarações de conjuntos de caracteres e etc.
+4. ```<meta charset="utf-8">```   Elemento que define o conjunto de caracteres que seu documento deve usar para o UTF-8, que inclui praticamente todos os caracteres da grande maioria dos idiomas escritos.
 5. ```<title></title>```  Define o título da sua página, que é o título que aparece na guia do navegador onde sua página é carregada. Ele também é usado para descrever a página quando você a adiciona aos favoritos.
-6. ```<body></body>``` Contém todo o conteúdo que você quer mostrar ao público que visita sua página, seja texto, imagens, vídeos, jogos, faixas de áudio reproduzíveis ou qualquer outra coisa.
+6. ```<body></body>```  Contém todo o conteúdo que você quer mostrar ao público que visita sua página, seja texto, imagens, vídeos, jogos, faixas de áudio reproduzíveis ou qualquer outra coisa.
 
 ## Marcadores
 
