@@ -43,3 +43,53 @@
 4. ```<meta charset="utf-8">``` —  Elemento que define o conjunto de caracteres que seu documento deve usar para o UTF-8, que inclui praticamente todos os caracteres da grande maioria dos idiomas escritos.
 5. ```<title></title>```  Define o título da sua página, que é o título que aparece na guia do navegador onde sua página é carregada. Ele também é usado para descrever a página quando você a adiciona aos favoritos.
 6. ```<body></body>``` Contém todo o conteúdo que você quer mostrar ao público que visita sua página, seja texto, imagens, vídeos, jogos, faixas de áudio reproduzíveis ou qualquer outra coisa.
+
+## Marcadores
+
+### Cabeçalhos
+
+Os elementos de cabeçalhos permitem especificar que certas partes do seu conteúdo são títulos ou subtítulos.
+
+``` HTML
+<!-- 4 níveis de título -->
+<h1>Meu título principal</h1>
+<h2>Meu título de alto nível</h2>
+<h3>Meu subtítulo</h3>
+<h4>Meu segundo subtítulo</h4>
+```
+
+### Parágrafo
+
+``` HTML
+<p>Este é um parágrafo simples</p>
+```
+
+### Listas 
+
+Muito do conteúdo da web é de listas e o HTML tem elementos especiais para elas. Listas de marcação sempre consistem em pelo menos 2 elementos. Os tipos mais comuns de lista são ordenadas e não ordenadas:
+
+1. Listas não ordenadas são para listas onde a ordem dos itens não importa, como uma lista de compras, por exemplo. Essas são envolvidas em um elemento ```<ul>```.
+2. Listas Ordenadas são para listas onde a ordem dos itens importa, como uma receita. Essas são envolvidas em um elemento ```<ol>```.
+Cada item dentro das listas é posto dentro de um elemento ```<li>``` (item de lista).
+
+Por exemplo, se nós quisermos tornar uma parte de um parágrafo numa lista:
+
+```HTML
+<p>Eu gosto de </p>
+
+<ul>
+  <li>Pizza</li>
+  <li>Chocolate</li>
+  <li>Comida japonesa</li>
+</ul>
+
+<p>Deu fome ...</p>
+
+```
+
+### Links
+Links são muito importantes — eles são o que faz da web ser de fato uma REDE!
+```HTML
+<a href="https://www.google.com/search?q=um+cachorro&sca_esv=578502807&tbm=isch&sxsrf=AM9HkKk4o5BTREfHfUdickvEC0M5KzHgog:1698848952570&source=lnms&sa=X&ved=2ahUKEwil7eDCgaOCAxUbrpUCHUY6Dp4Q_AUoAXoECAMQAw&biw=1366&bih=619&dpr=1#imgrc=F-3KD-GXYHtdDM"
+  >Um cachorro</a>
+```
