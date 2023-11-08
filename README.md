@@ -155,7 +155,7 @@ As classes são uma forma de identificar um grupo de elementos. Através delas, 
 
 ## Vamos praticar um pouco
 
-```
+```CSS
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
