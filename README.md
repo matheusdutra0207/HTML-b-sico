@@ -238,3 +238,7 @@ Faça uma página em HTML semelhante a da Figura abaixo. Para título, utilize a
 ## Atividade 2
 
 Faça uma página semelhante a da Figura abaixo utilizando HTML e CSS.
+<p align="center">
+  <img src="https://github.com/matheusdutra0207/HTML-b-sico/blob/main/imagens/atv-1-CSS.PNG" width="500" title="prog 1 e 2">
+</p>
+
