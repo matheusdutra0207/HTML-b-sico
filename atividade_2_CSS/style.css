@@ -1,0 +1,28 @@
+.caixa-com-comida { 
+    display: auto;
+    text-align: center;
+    font-style: inherit;
+    font-weight: bold;
+    color: blue;
+    font-size: 20px;
+
+}
+.container {
+    display: flex;
+    gap: 0.5rem;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+img {
+    border-radius: 10%;
+}
+
+h1 {
+    text-align: center;
+}
