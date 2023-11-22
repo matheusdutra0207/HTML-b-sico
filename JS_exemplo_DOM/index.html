@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <style>
+        .container {
+        display: flex;
+        gap: 0.5rem;
+        flex-direction: column;
+        }
+
+        button {
+        width: 200px;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 10%;
+        }        
+
+        textarea {
+            text-align: center;
+            background-color: aquamarine;
+            color: red;
+            font-style: italic;
+        }
+
+        body {
+            background-color: antiquewhite;
+        }
+    </style>
+    <title>Minha página com js</title>
+</head>
+<body>
+    <div class="container">
+        <textarea class="story"></textarea>
+        <button id="set-text" type="button">Set text content</button>
+        <button id="clear-text" type="button">Clear text content</button>
+    </div>
+    <script src="javascript.js"></script>
+</body>
+</html>
