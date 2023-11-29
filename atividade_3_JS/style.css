@@ -1,0 +1,56 @@
+.container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-direction: row;
+} 
+
+.caixa-com-comida {
+    text-align: center;
+    color: rgb(148, 82, 2);
+}
+
+button { 
+    color: rgb(148, 82, 2);
+    border-radius: 10%;
+    background-color: bisque;
+    font-weight: bold;
+
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+img {
+    border-radius: 20%;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(148, 82, 2);
+}
+
+#img-hamb { 
+    display: none;
+}
+
+#img-japa { 
+    display: none;
+}
+
+#img-churras { 
+    display: none;
+}
+
+#p-hamb { 
+    display: none;
+}
+
+#p-japa { 
+    display: none;
+}
+
+#p-churras { 
+    display: none;
+}
