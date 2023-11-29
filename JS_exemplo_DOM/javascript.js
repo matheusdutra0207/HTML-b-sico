@@ -4,6 +4,7 @@ function addTextContent() {
 
 function clearTextContent() {
     story.textContent = ""
+    console.log("aqui")
 }
 
 const story = document.querySelector(".story")
